@@ -9,7 +9,7 @@
   "author": "sanjar737",
   "license": "ISC",
   "dependencies": {
-    "@actions/core": "^1.6.0",
+    "@actions/core": "^1.8.2",
     "@actions/github": "^5.0.0"
   }
 }
